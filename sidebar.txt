@@ -10,6 +10,10 @@
 
   * [[ktu:obs|Open Bible Stories (ktu)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ktu|d43-ktu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ktu/archive/master.zip|d43-ktu.zip]]
+
 **Recent Changes**
 {{changes>ns = ktu}}
 
