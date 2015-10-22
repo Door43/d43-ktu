@@ -8,6 +8,3 @@
 **Recent Changes**
 {{changes>ns = ktu:obs}}
 
-**Latest Status**
-{{page>en:uwadmin:ktu:obs:status}}
-
